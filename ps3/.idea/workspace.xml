@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ps3" targetName="ps3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="cmk-docker" CONFIG_NAME="Debug" TOOLCHAIN_NAME="docker" ENABLED="true" />
+      <configuration PROFILE_NAME="docker" CONFIG_NAME="Debug" TOOLCHAIN_NAME="docker" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17662268-d544-4a91-adcb-d49bcbcda3f9" name="Default Changelist" comment="PS3 code Edits(hopefully only time)">
+      <change afterPath="$PROJECT_DIR$/../ps4/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/.idea/ps4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/errors.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/node.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/node.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/rpn.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/rpn.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/stack.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps4/stack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps4/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ps4/CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:cmk-docker" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pnvNh3OGgAfFpjXMG5bNJRWUz7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ps3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ps3" TARGET_NAME="ps3" CONFIG_NAME="cmk-docker" RUN_TARGET_PROJECT_NAME="ps3" RUN_TARGET_NAME="ps3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17662268-d544-4a91-adcb-d49bcbcda3f9" name="Default Changelist" comment="" />
+      <created>1615831631463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615831631463</updated>
+      <workItem from="1615831634342" duration="613000" />
+      <workItem from="1615913526663" duration="20000" />
+      <workItem from="1615913552419" duration="15333000" />
+      <workItem from="1615990467692" duration="6411000" />
+      <workItem from="1616009516052" duration="7409000" />
+      <workItem from="1616433906668" duration="50000" />
+      <workItem from="1616433959775" duration="12000" />
+      <workItem from="1616434213651" duration="99000" />
+      <workItem from="1617070839375" duration="251000" />
+    </task>
+    <task id="LOCAL-00001" summary="PS3 code Edits(hopefully only time)">
+      <created>1616028875774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616028875774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changelists">
+      <created>1616434233756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616434233756</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changelists">
+      <created>1616434280532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616434280532</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PS3 code Edits(hopefully only time)" />
+    <MESSAGE value="changelists" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>

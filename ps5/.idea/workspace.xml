@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ps5" targetName="ps5" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="cmk-docker" CONFIG_NAME="Debug" TOOLCHAIN_NAME="docker" ENABLED="true" />
+      <configuration PROFILE_NAME="docker" CONFIG_NAME="Debug" TOOLCHAIN_NAME="docker" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aab70c1e-fa40-4495-acff-f277dfcb24f4" name="Default Changelist" comment="semi completion im tired though">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:cmk-docker" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-ps5" />
+  </component>
+  <component name="ProjectId" id="1rX9xPHuxpWzG8SPUv8Eh0uSKfT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ps5" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./ps5-infile.txt ./ps5-outfile.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file:///home/cs210/cs210/ps5" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ps5" TARGET_NAME="ps5" CONFIG_NAME="cmk-docker" RUN_TARGET_PROJECT_NAME="ps5" RUN_TARGET_NAME="ps5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aab70c1e-fa40-4495-acff-f277dfcb24f4" name="Default Changelist" comment="" />
+      <created>1619111813173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619111813173</updated>
+      <workItem from="1619111815300" duration="12758000" />
+      <workItem from="1619139473965" duration="55000" />
+      <workItem from="1619139575333" duration="231000" />
+      <workItem from="1619139900830" duration="313000" />
+      <workItem from="1619140222932" duration="1464000" />
+      <workItem from="1619143387536" duration="20000" />
+      <workItem from="1619146529471" duration="666000" />
+      <workItem from="1619148573559" duration="183000" />
+      <workItem from="1619150550874" duration="12309000" />
+      <workItem from="1619204043752" duration="560000" />
+      <workItem from="1619204660569" duration="902000" />
+      <workItem from="1619205735390" duration="47000" />
+      <workItem from="1619217869342" duration="50000" />
+      <workItem from="1619541630230" duration="445000" />
+    </task>
+    <task id="LOCAL-00001" summary="REAL PS5 START">
+      <created>1619111873149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619111873149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="REAL PS5 START">
+      <created>1619111890136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619111890136</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ps5 split cleaning up">
+      <created>1619112711789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619112711790</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ps4 split cleaning up">
+      <created>1619112809801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619112809801</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ps5 infile and outfile additions">
+      <created>1619113306434</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619113306435</updated>
+    </task>
+    <task id="LOCAL-00006" summary="connection test">
+      <created>1619140241867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619140241867</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nearing completion">
+      <created>1619204103251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619204103251</updated>
+    </task>
+    <task id="LOCAL-00008" summary="semi completion im tired though">
+      <created>1619205551378</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619205551379</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="REAL PS5 START" />
+    <MESSAGE value="ps5 split cleaning up" />
+    <MESSAGE value="ps4 split cleaning up" />
+    <MESSAGE value="ps5 infile and outfile additions" />
+    <MESSAGE value="connection test" />
+    <MESSAGE value="nearing completion" />
+    <MESSAGE value="semi completion im tired though" />
+    <option name="LAST_COMMIT_MESSAGE" value="semi completion im tired though" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/rpn.c</url>
+          <line>223</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>38</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>39</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

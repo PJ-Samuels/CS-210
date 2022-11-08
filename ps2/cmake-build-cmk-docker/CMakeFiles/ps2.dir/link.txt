@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ps2.dir/main.c.o CMakeFiles/ps2.dir/maths.c.o  -o ps2 
